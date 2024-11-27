@@ -1,6 +1,8 @@
 # **Heritage: AI-Powered Query System for Nigerian Arts & Culture**
 
-![image](https://github.com/user-attachments/assets/f06ef047-b67e-4bac-bb02-07de6d007c73)
+![image](https://github.com/user-attachments/assets/eefe6473-5c38-4eac-9081-85f65667cd87)
+
+
   
 
 
@@ -19,7 +21,8 @@ A few things you should know...
 * One of the key advantages of this setup is its flexibility. The theme or use case of this chatbot can be effortlessly customized. While it's currently focused on ```Heritage``` you could easily adapt it to something entirely different — like "Space" — as long as you have a knowledge base that supports the new theme. Each component is modular and can be swapped out for alternatives without disrupting the overall structure.
 
 
-![image](https://github.com/user-attachments/assets/379fe56a-9608-4af5-bcc2-8b064b1d491d)
+![heritage2](https://github.com/user-attachments/assets/6ff84314-15b9-4428-b8f9-aa47d88a9251)
+
 
 ## Introduction
 
@@ -53,5 +56,6 @@ Key Features:
 Submission Process:
 
 * Following the hackathon guidelines, Heritage will be submitted to the GenAI-Agents repository via a pull request, along with a comprehensive tutorial on the system's setup, structure, and usage.
-![heritage2](https://github.com/user-attachments/assets/ffb634a1-1e05-4347-b936-0833684354c3)
+![banner_new](https://github.com/user-attachments/assets/8a797717-76b5-491c-b151-e2d30f62e0cf)
+
 
